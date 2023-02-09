@@ -19,9 +19,9 @@ const About = () => {
       <div className='app__about-container'>
         <section className='app__about-profile'>
           <p>
-            Desarrollador frontend con dominio en tecnologías web, con conocimientos en JavaScript, React, Next.js, Bootstrap, Tailwind, Material UI, Git.Apasionado por el desarrollo de software, las buenas prácticas de código y diseño; mantengo en constante aprendizaje. Proactivo, colaborador y con la capacidad de trabajar en equipo. Soy estudiante de ingeniería de software y actualmente estoy en el decimo semestre.
+            Desarrollador Frontend altamente capacitado en tecnologías web, con dominio en JavaScript, React, Next.js, Bootstrap, Tailwind, Material UI, Git. Apasionado por el desarrollo de software, las buenas prácticas de código y diseño, siempre estoy en busca de mejorar mis habilidades y conocimientos. Proactivo, colaborador y con la capacidad de trabajar en equipo. Soy estudiante de Ingeniería de Software y actualmente estoy en el décimo semestre.
           </p>
-          <a className='p-text' href='/cv-brayan-rodriguez-montealegre.pdf' download>Descargar CV</a>
+          <a className='p-text' href='../../../cv-Brayan-Rodriguez-Montealegre.pdf' download>Descargar CV</a>
         </section>
         <section className='app__about-study'>
           <p className='bold-text'>Estudios:</p>
